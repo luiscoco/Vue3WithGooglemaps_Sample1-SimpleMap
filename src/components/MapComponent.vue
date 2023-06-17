@@ -13,7 +13,7 @@ export default {
   setup() {
     onMounted(() => {
       const loader = new Loader({
-        apiKey: "AIzaSyBomc_2klMg7y_ZnbTf_Oqg1UyEdEpVJA0",
+        apiKey: "XXXXXXXXXXXXXXXXXXXXXXXXXXXX",
         version: "weekly",
         libraries: ["places"],
       });
